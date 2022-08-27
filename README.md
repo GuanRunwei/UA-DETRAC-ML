@@ -7,6 +7,6 @@ The annotation file of multi-label vehicle detection based on UA-DETRAC.
 
    password: 231p
 
-2. multi-label -> proposal cross modal matching [Baidu Cloud Disk](https://pan.baidu.com/s/1Z5SItSCk437OsR5JnsoWuw)
+2. [multi-label -> vehicle proposal] cross modal matching [Baidu Cloud Disk](https://pan.baidu.com/s/1Z5SItSCk437OsR5JnsoWuw)
 
    password: so3m
