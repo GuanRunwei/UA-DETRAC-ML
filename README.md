@@ -3,7 +3,7 @@ The annotation file of multi-label vehicle detection based on UA-DETRAC.
 
 There are three categories: vehicle type, vehicle color and vehicle orientation.
 
-<img src="https://github.com/GuanRunwei/UA-DETRAC-ML/blob/main/DETRAC-ML.png" width = "1200" height = "400" alt="UA-DETRAC-ML" align=center />
+<img src="https://github.com/GuanRunwei/UA-DETRAC-ML/blob/main/DETRAC-ML.png" width = "1250" height = "300" alt="UA-DETRAC-ML" align=center />
 
 
 ## Data Link
